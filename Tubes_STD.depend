@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1523870850 source:d:\document\c++\tubes_std\main.cpp
+	"libSponsor.h"
+	"libEvent.h"
+	"listRelasi.h"
+
+1523886622 d:\document\c++\tubes_std\libsponsor.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
+1523973752 source:d:\document\c++\tubes_std\libsponsor.cpp
+	"libSponsor.h"
+
+1523870211 source:d:\document\c++\tubes_std\libevent.cpp
+	"libEvent.h"
+
+1523870185 d:\document\c++\tubes_std\libevent.h
+	<iostream>
+
+1523870042 source:d:\document\c++\tubes_std\listrelasi.cpp
+	"listRelasi.h"
+
+1523869997 d:\document\c++\tubes_std\listrelasi.h
+	"libSponsor.h"
+	"libEvent.h"
+	<iostream>
+
+1523869997 D
+
+1524638981 source:d:\project\tubes_std\libevent.cpp
+	"libEvent.h"
+
+1524638879 d:\project\tubes_std\libevent.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
+1524540894 source:d:\project\tubes_std\libsponsor.cpp
+	"libSponsor.h"
+
+1524540894 d:\project\tubes_std\libsponsor.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
+1524638967 source:d:\project\tubes_std\main.cpp
+	"libSponsor.h"
+	"libEvent.h"
+	"listRelasi.h"
+
+1524638940 d:\project\tubes_std\listrelasi.h
+	"libSponsor.h"
+	"libEvent.h"
+	<iostream>
+
+1524638953 source:d:\project\tubes_std\listrelasi.cpp
+	"listRelasi.h"
+
+1524634977 i.h"
+
+1524634977 eae43efd9373784c58369e89ab8cd7034621f
+
+1525173791 source:d:\tubes std\libevent.cpp
+	"libEvent.h"
+	"menuTubes.h"
+
+1525094330 d:\tubes std\libevent.h
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
+1525151895 source:d:\tubes std\libsponsor.cpp
+	"libSponsor.h"
+	"menuTubes.h"
+
+1525066968 d:\tubes std\libsponsor.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
+1525167766 source:d:\tubes std\listrelasi.cpp
+	"listRelasi.h"
+	"menuTubes.h"
+
+1525167559 d:\tubes std\listrelasi.h
+	"libSponsor.h"
+	"libEvent.h"
+	<iostream>
+
+1524820203 source:d:\tubes std\main.cpp
+	"libSponsor.h"
+	"libEvent.h"
+	"listRelasi.h"
+	"menuTubes.h"
+
+1525172667 d:\tubes std\menutubes.h
+	"libEvent.h"
+	"libSponsor.h"
+	"listRelasi.h"
+
+1525173791 source:d:\tubes std\libmenu.cpp
+	"menuTubes.h"
+
+1525452627 source:d:\tubes_std\libevent.cpp
+	"libEvent.h"
+	"menuTubes.h"
+
+1525452627 d:\tubes_std\libevent.h
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
+1525452627 d:\tubes_std\menutubes.h
+	"libEvent.h"
+	"libSponsor.h"
+	"listRelasi.h"
+
+1525452627 d:\tubes_std\libsponsor.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
+1525452627 d:\tubes_std\listrelasi.h
+	"libSponsor.h"
+	"libEvent.h"
+	<iostream>
+
+1525452898 source:d:\tubes_std\libmenu.cpp
+	"menuTubes.h"
+
+1525452627 source:d:\tubes_std\libsponsor.cpp
+	"libSponsor.h"
+	"menuTubes.h"
+
+1525452627 source:d:\tubes_std\listrelasi.cpp
+	"listRelasi.h"
+	"menuTubes.h"
+
+1525452627 source:d:\tubes_std\main.cpp
+	"libSponsor.h"
+	"libEvent.h"
+	"listRelasi.h"
+	"menuTubes.h"
+
